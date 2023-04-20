@@ -1,0 +1,87 @@
+body
+{
+    margin: 0;
+    background-color: #393E46;
+}
+
+.Header
+{
+    width:100%;
+    height: 15%;
+    background-color: #222831;
+}
+.Header h2
+{
+    display: inline-block;
+    color:#EEEEEE;
+    position: relative;
+    top:10px;
+    left:20px;
+}
+.Intro
+{
+    width: 200px;
+    height: 200px;
+    color: white;
+    font-size: 25px;
+    letter-spacing: -1px;
+    background-color: #222831;
+    position: relative;
+    Right: 636px;
+}
+#SpechialWord
+{
+    margin: 0;
+    color:#00ADB5;
+}  
+#FullWord
+{
+    margin: 0;
+}
+.FirstBook
+{
+    background-color: #696e78;
+    position: relative;
+    left: 300px;
+    top: 5px;
+    width: 1000px;
+    height: 350px;
+    border-radius: 25px;
+}  
+
+.FirstBook .img1
+{
+    position: absolute;
+    left:30px;
+    top: 15px;
+    box-shadow: 2px 0 8px 0 black;
+}
+.FirstBook .img1:hover
+{
+    width: 25%;
+    height: auto;
+}
+.FirstBook .img2
+{
+    position: absolute;
+    left:380px;
+    top: 15px;
+    box-shadow: 2px 0 8px 0 black;
+}
+.FirstBook .img2:hover
+{
+    width: 25%;
+    height: auto;
+}
+.FirstBook .img3
+{
+    position: absolute;
+    left:740px;
+    top: 15px;
+    box-shadow: 2px 0 8px 0 black;
+}
+.FirstBook .img3:hover
+{
+    width: 25%;
+    height: auto;
+}
